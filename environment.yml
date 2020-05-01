@@ -5,5 +5,6 @@ dependencies:
   - notebook
   - ipympl
   - ipyleaflet
+  - pip
   - pip:
     - git+https://github.com/davidbrochart/ipylayout.git#egg=ipylayout
