@@ -1,0 +1,9 @@
+name: ipylayout
+channels:
+  - conda-forge
+dependencies:
+  - notebook
+  - ipympl
+  - ipyleaflet
+  - pip:
+    - git+https://github.com/davidbrochart/ipylayout.git#egg=ipylayout

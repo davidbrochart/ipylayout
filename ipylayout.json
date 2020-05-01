@@ -1,0 +1,5 @@
+{
+  "load_extensions": {
+    "ipylayout/extension": true
+  }
+}
