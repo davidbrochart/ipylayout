@@ -21,17 +21,14 @@ import {
 
 const EXTENSION_ID = 'ipylayout:plugin';
 
-/**
- * The example plugin.
- */
-const examplePlugin: IPlugin<Application<Widget>, void> = {
+const ipylayoutPlugin: IPlugin<Application<Widget>, void> = {
   id: EXTENSION_ID,
   requires: [IJupyterWidgetRegistry],
   activate: activateWidgetExtension,
   autoStart: true
 };
 
-export default examplePlugin;
+export default ipylayoutPlugin;
 
 
 /**

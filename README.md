@@ -9,14 +9,14 @@ A Layout Manager Jupyter Widget Library based on [GoldenLayout](http://golden-la
 You can install using `pip`:
 
 ```bash
-pip install git+https://github.com/davidbrochart/ipylayout
+pip install ipylayout
 ```
 
 Or if you use jupyterlab:
 
 ```bash
-pip install git+https://github.com/davidbrochart/ipylayout
-jupyter labextension install @jupyter-widgets/jupyterlab-manager
+pip install ipylayout
+jupyter labextension install @jupyter-widgets/jupyterlab-manager ipylayout
 ```
 
 If you are using Jupyter Notebook 5.2 or earlier, you may also need to enable
