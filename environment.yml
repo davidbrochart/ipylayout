@@ -3,6 +3,7 @@ channels:
   - conda-forge
 dependencies:
   - notebook
+  - jupyterlab
   - ipympl
   - ipyleaflet
   - pip
