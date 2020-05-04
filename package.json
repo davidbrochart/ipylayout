@@ -50,7 +50,8 @@
   },
   "dependencies": {
     "@jupyter-widgets/base": "^2.0.1",
-    "golden-layout": "^1.5.9"
+    "golden-layout": "^1.5.9",
+    "jquery": "^3.1.1"
   },
   "devDependencies": {
     "@phosphor/algorithm": "^1.2.0",
@@ -78,7 +79,7 @@
     "source-map-loader": "^0.2.4",
     "style-loader": "^1.0.0",
     "ts-loader": "^5.2.1",
-    "typescript": "^3.1.6",
+    "typescript": "^3.8",
     "webpack": "^4.20.2",
     "webpack-cli": "^3.1.2"
   },

@@ -26,6 +26,7 @@ import {
 
 import '../css/widget.css'
 import 'golden-layout/src/css/goldenlayout-base.css'
+import $ from 'jquery'
 
 
 export
