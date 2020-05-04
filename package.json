@@ -1,6 +1,6 @@
 {
   "name": "ipylayout",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A Layout Manager Jupyter Widget Library",
   "keywords": [
     "jupyter",
