@@ -1,3 +1,4 @@
 #!/bin/bash
 
+jupyter serverextension enable voila --sys-prefix
 cd / && jupyter labextension install @jupyter-widgets/jupyterlab-manager jupyter-leaflet jupyter-matplotlib ipylayout

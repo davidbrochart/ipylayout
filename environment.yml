@@ -4,6 +4,7 @@ channels:
 dependencies:
   - notebook
   - jupyterlab
+  - voila
   - ipympl
   - ipyleaflet
   - pip
