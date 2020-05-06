@@ -7,6 +7,4 @@ dependencies:
   - voila
   - ipympl
   - ipyleaflet
-  - pip
-  - pip:
-    - ipylayout
+  - ipylayout
